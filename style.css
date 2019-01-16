@@ -4,7 +4,7 @@
     text-align: center;
 }
 
-body    {
+body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     background-color: #777;
     color: #777;
@@ -14,43 +14,63 @@ body    {
 
 section {
     display: block;
+    background-color: #ebebeb;
+    color: #777;
+    padding: 20px;
+    width: 475px;
+}
+
+header {
+    display: block;
+    background-color: #ebebeb;
+    color: #777;
+    padding: 20px;
+    width: 475px;
+}
+
+h3 {
+    display: block;
+    background-color: #ebebeb;
+    color: #777;
+    padding: 20px;
+    width: 475px;
+}
+
+article {
+    display: block;
+    background-color: #777;
     color: #ebebeb;
     padding: 20px;
     width: 475px;
 }
 
-header  {
-    display: block;
-    color: #ebebeb;
-    padding: 20px;
-    width: 475px;
-}
-h3  {
-    display: block;
-    color: #ebebeb;
-    padding: 20px;
-    width: 475px;
-}
 nav {
     display: block;
-    color: #ebebeb;
+    background-color: #ebebeb;
+    color: #777;
     padding: 20px;
     width: 475px;
 }
+
 section {
     display: block;
-    color: #ebebeb;
+    background-color: #ebebeb;
+    color: #777;
     padding: 20px;
     width: 475px;
 }
-aside   {
+
+aside {
     display: inline-block;
-    color: #ebebeb;
+    background-color: #ebebeb;
+    color: #777;
     width: 475px;
 }
+
 footer {
-    display:block;
-    color: #ebebeb;
+    display: block;
+    background-color: #ebebeb;
+    color: #777;
     padding: 20px;
     width: 475px;
 }

@@ -10,7 +10,6 @@ body {
     color: #777;
     width: 960px;
     font-size: 18px;
-    float: left;
 }
 
 section {
@@ -20,6 +19,7 @@ section {
     padding: 20px;
     width: 555px;
     margin: 25px;
+    float: left;
 }
 
 header {
@@ -28,6 +28,7 @@ header {
     color: #777;
     padding: 20px;
     width: 900px;
+    margin: 10px;
 }
 
 h3 {
@@ -35,7 +36,7 @@ h3 {
     background-color: #ebebeb;
     color: #777;
     padding: 20px;
-    width: 475px;
+    width: 80%;
 }
 
 .p {
@@ -43,7 +44,7 @@ h3 {
     background-color: #ebebeb;
     color: #777;
     padding: 20px;
-    width: 475px;
+    width: 80%;
 }
 
 article {
@@ -51,8 +52,8 @@ article {
     background-color: #777;
     color: #ebebeb;
     padding: 20px;
-    width: 475px;
-    margin: 25px;
+    width: 80%;
+    margin: 10px;
 }
 
 nav {
@@ -61,6 +62,7 @@ nav {
     color: #777;
     padding: 20px;
     width: 900px;
+    margin: 10px;
 }
 
 section {
@@ -68,8 +70,9 @@ section {
     background-color: #ebebeb;
     color: #777;
     padding: 20px;
-    width: 475px;
+    width: 495px;
     float: left;
+    margin: 10px;
 }
 
 .container {
@@ -78,18 +81,20 @@ section {
     color: #777;
     padding: 20px;
     width: 475px;
+    margin: 10px;
 }
 
 aside {
     display: block;
-    position: absolute;
+    position: relative;
     background-color: #ebebeb;
     color: #777;
-    width: 445px;
-    margin-left: 10px;
-    padding: 20px;
+    width: 40%;
     float: right;
-    right: 20px;
+    /* padding: 20px; */
+    margin: 10px;
+    z-index: 1;
+    height: 368px;
 }
 
 footer {
@@ -100,4 +105,5 @@ footer {
     padding: 20px;
     width: 900px;
     bottom: 10px;
+    margin: 10px;
 }

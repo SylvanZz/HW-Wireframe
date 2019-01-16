@@ -1,0 +1,49 @@
+/* I have a lot to learn, and that's a good thing! */
+
+* {
+    text-align: center;
+}
+
+body    {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-color: #777;
+    color: #777;
+    width: 960 px;
+    font-size: 18px;
+}
+
+section {
+    display: block;
+    color: #ebebeb;
+    padding: 20px;
+    width: 475px;
+}
+
+header  {
+    display: bloack;
+    color: #ebebeb;
+    padding: 20px;
+    width: 475px;
+}
+nav {
+    color: #ebebeb;
+    padding: 20px;
+    width: 475px;
+}
+section {
+    display: block;
+    color: #ebebeb;
+    padding: 20px;
+    width: 475px;
+}
+aside   {
+    display: inline-block;
+    color: #ebebeb;
+    width: 475px;
+}
+footer {
+    display:block;
+    color: #ebebeb;
+    padding: 20px;
+    width: 475px;
+}

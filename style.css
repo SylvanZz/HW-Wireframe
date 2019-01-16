@@ -10,6 +10,7 @@ body {
     color: #777;
     width: 960px;
     font-size: 18px;
+    float: left;
 }
 
 section {
@@ -17,8 +18,8 @@ section {
     background-color: #ebebeb;
     color: #777;
     padding: 20px;
-    width: 495px;
-    margin: 50px;
+    width: 555px;
+    margin: 25px;
 }
 
 header {
@@ -26,7 +27,7 @@ header {
     background-color: #ebebeb;
     color: #777;
     padding: 20px;
-    width: 475px;
+    width: 900px;
 }
 
 h3 {
@@ -68,21 +69,35 @@ section {
     color: #777;
     padding: 20px;
     width: 475px;
+    float: left;
+}
+
+.container {
+    display: block;
+    background-color: #ebebeb;
+    color: #777;
+    padding: 20px;
+    width: 475px;
 }
 
 aside {
-    display: inline-block;
+    display: block;
+    position: absolute;
     background-color: #ebebeb;
     color: #777;
-    width: 475px;
-    height: 300px;
+    width: 445px;
     margin-left: 10px;
+    padding: 20px;
+    float: right;
+    right: 20px;
 }
 
 footer {
+    position: absolute;
     display: block;
     background-color: #ebebeb;
     color: #777;
     padding: 20px;
     width: 900px;
+    bottom: 10px;
 }

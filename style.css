@@ -20,12 +20,19 @@ section {
 }
 
 header  {
-    display: bloack;
+    display: block;
+    color: #ebebeb;
+    padding: 20px;
+    width: 475px;
+}
+h3  {
+    display: block;
     color: #ebebeb;
     padding: 20px;
     width: 475px;
 }
 nav {
+    display: block;
     color: #ebebeb;
     padding: 20px;
     width: 475px;

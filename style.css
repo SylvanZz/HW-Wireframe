@@ -17,7 +17,7 @@ section {
     background-color: #ebebeb;
     color: #777;
     padding: 20px;
-    width: 555px;
+    width: 495px;
     margin: 25px;
     float: left;
 }
@@ -27,7 +27,7 @@ header {
     background-color: #ebebeb;
     color: #777;
     padding: 20px;
-    width: 900px;
+    width: 960px;
     margin: 10px;
 }
 
@@ -36,7 +36,8 @@ h3 {
     background-color: #ebebeb;
     color: #777;
     padding: 20px;
-    width: 80%;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .p {
@@ -44,7 +45,8 @@ h3 {
     background-color: #ebebeb;
     color: #777;
     padding: 20px;
-    width: 80%;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 article {
@@ -52,7 +54,8 @@ article {
     background-color: #777;
     color: #ebebeb;
     padding: 20px;
-    width: 80%;
+    margin-right: 20px;
+    margin-left: 20px;
     margin: 10px;
 }
 
@@ -61,7 +64,7 @@ nav {
     background-color: #ebebeb;
     color: #777;
     padding: 20px;
-    width: 900px;
+    width: 960px;
     margin: 10px;
 }
 
@@ -79,7 +82,7 @@ section {
     display: block;
     background-color: #ebebeb;
     color: #777;
-    padding: 20px;
+    /* padding: 20px; */
     width: 475px;
     margin: 10px;
 }
@@ -89,11 +92,11 @@ aside {
     position: relative;
     background-color: #ebebeb;
     color: #777;
-    width: 40%;
+    width: 425px;
     float: right;
     /* padding: 20px; */
-    margin: 10px;
-    z-index: 1;
+    /* margin: 10px; */
+    /* z-index: 1; */
     height: 368px;
 }
 
@@ -103,7 +106,8 @@ footer {
     background-color: #ebebeb;
     color: #777;
     padding: 20px;
-    width: 900px;
-    bottom: 10px;
+    width: 960px;
+    float: auto;
     margin: 10px;
+    bottom: -10px;
 }

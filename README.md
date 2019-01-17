@@ -105,3 +105,6 @@ Helpful Hints
 For a refresher on working with Git and GitHub, consult the GitHub Supplemental Guide we sent you in class.
 Don't forget to review these concepts: float, padding, margin, display, overflow, clear and text-align.
 This will be a tough assignment. But 23 weeks from now, you'll look back to this exercise and realize just how much you've grown as a developer. Stay positive!
+
+
+This one took more time than I expected, and while it looks somewhat close to the objective, I lack the nuance to get it closer. I'll have to catch up on HTML and CSS this weekend, as the coursework and classwork are moving at two incompatible paces and I have a lot to learn.

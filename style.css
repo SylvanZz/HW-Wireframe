@@ -10,6 +10,8 @@ body {
     color: #777;
     width: 960px;
     font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 section {
@@ -35,27 +37,27 @@ h3 {
     display: block;
     background-color: #ebebeb;
     color: #777;
-    padding: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
+    padding: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 .p {
     display: block;
     background-color: #ebebeb;
     color: #777;
-    padding: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
+    padding: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 article {
     display: block;
     background-color: #777;
     color: #ebebeb;
-    padding: 20px;
-    margin-right: 20px;
-    margin-left: 20px;
+    padding: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
     margin: 10px;
 }
 
@@ -72,7 +74,7 @@ section {
     display: block;
     background-color: #ebebeb;
     color: #777;
-    padding: 20px;
+    padding: 10px;
     width: 495px;
     float: left;
     margin: 10px;
@@ -92,22 +94,24 @@ aside {
     position: relative;
     background-color: #ebebeb;
     color: #777;
-    width: 425px;
+    width: 445px;
     float: right;
     /* padding: 20px; */
     /* margin: 10px; */
     /* z-index: 1; */
-    height: 368px;
+    height: 300px;
 }
 
 footer {
-    position: absolute;
+    position: relative;
     display: block;
     background-color: #ebebeb;
     color: #777;
     padding: 20px;
     width: 960px;
     float: auto;
-    margin: 10px;
-    bottom: -10px;
+    /* bottom: -10px; */
+    /* height: 10%; */
+    clear: both;
+    margin-top: auto;
 }
